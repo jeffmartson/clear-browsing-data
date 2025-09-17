@@ -41,7 +41,7 @@
     "core-js": "^3.29.0",
     "lodash-es": "^4.17.21",
     "p-queue": "^7.3.4",
-    "vue": "^3.2.47",
+    "vue": "^3.5.20",
     "vue-resize": "^2.0.0-alpha.1",
     "vuedraggable": "^4.1.0",
     "vuetify": "3.1.7",
