@@ -38,7 +38,7 @@
   "dependencies": {
     "@fontsource/roboto": "^4.5.8",
     "buffer": "^6.0.3",
-    "core-js": "^3.29.0",
+    "core-js": "^3.45.1",
     "lodash-es": "^4.17.21",
     "p-queue": "^7.3.4",
     "vue": "^3.2.47",
