@@ -39,7 +39,7 @@
     "@fontsource/roboto": "^4.5.8",
     "buffer": "^6.0.3",
     "core-js": "^3.29.0",
-    "lodash-es": "^4.17.21",
+    "lodash-es": "^4.17.23",
     "p-queue": "^7.3.4",
     "vue": "^3.2.47",
     "vue-resize": "^2.0.0-alpha.1",
